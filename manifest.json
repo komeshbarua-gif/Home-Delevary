@@ -1,0 +1,40 @@
+{
+  "background_color": "#ffffff",
+  "description": "app for delevary \nTry  Artifacts created by Claude users",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Claude Artifact",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Claude Artifact",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://claude.ai/images/claude_ogimage.png",
+      "type": "image/png",
+      "sizes": "1138x640",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1138,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://claude.ai/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "com.ordersaathi.app"
+}
